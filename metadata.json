@@ -1,0 +1,6 @@
+{
+  "name": "Life Simulator",
+  "description": "AI Life Decision Simulator predicting detailed outcomes, long-term financial trajectories, well-being analytics, and secure cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
